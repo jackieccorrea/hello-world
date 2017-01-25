@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi coders! 
+
+Jackie here, I like research, design, learning, and coffee. 
